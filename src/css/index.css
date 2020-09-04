@@ -383,7 +383,7 @@ body, html{
 
 .second--canvas::after{
 	background:#ff1f64;
-	animation-delay: 500ms;
+	animation-delay: 2s;
 }
 
 .second--canvas .content{
